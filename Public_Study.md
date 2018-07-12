@@ -1,5 +1,10 @@
+目录
+# 公共技能
+## 安装和使用KaliLinux
+### KaliLinux在虚拟机里的安装
 # 公共技能
   这是一个大家都需要共同学习和掌握的基本技能
+  
 ##   安装和使用KaliLinux
    Linux的安装有两种方式，一种是物理机直接安装，一种是虚拟机里安装。建议新手使用虚拟机
    安装，虚拟机（Virtual Machine）就是通过软件方法利用一台物理电脑的硬盘和内存可虚拟出
@@ -14,5 +19,9 @@
     虚拟化，所以你要是购买电脑的话，CPU最低型号也应该是Intel i5以上的五代处理器。这是最低的型号，再低的话
     可以安装是可以安装，但是不保证能流畅运行。
     2、下载Vmware（一款支持物理机虚拟化安装操作系统的软件）
-       https://my.vmware.com/en/web/vmware/info/slug/desktop_end_user_computing/vmware_workstation_pro/14_0
+       下载链接：https://pan.baidu.com/s/1Lnu5n445_LQ_qm3Zy_L77g
+    3、下载KaliLinux
+        http://cdimage.kali.org/kali-2018.2/kali-linux-2018.2-amd64.iso    
+    4、安装Kali
+    
     
