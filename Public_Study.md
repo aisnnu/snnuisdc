@@ -14,5 +14,5 @@
     虚拟化，所以你要是购买电脑的话，CPU最低型号也应该是Intel i5以上的五代处理器。这是最低的型号，再低的话
     可以安装是可以安装，但是不保证能流畅运行。
     2、下载Vmware（一款支持物理机虚拟化安装操作系统的软件）
-    https://my.vmware.com/en/web/vmware/info/slug/desktop_end_user_computing/vmware_workstation_pro/14_0
+       https://my.vmware.com/en/web/vmware/info/slug/desktop_end_user_computing/vmware_workstation_pro/14_0
     
