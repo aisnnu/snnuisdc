@@ -9,4 +9,10 @@
    出来一个硬件环境，称为虚拟机或客户机。由宿主机创建的虚拟机，与真实的计算机几乎一模一样，不但有独
    立的CPU、内存、硬盘网卡等各种硬件，还有自己的BIOS。用户也可以在虚拟机上安装Linux、Windows等真实的
    操作系统及各种应用软件。
-   
+### KaliLinux在虚拟机里的安装
+    1、首先你需要查看一下你的电脑CPU支持不支持虚拟化，一般来说，现在的CPU只要不是那种老古董处理器，都支持
+    虚拟化，所以你要是购买电脑的话，CPU最低型号也应该是Intel i5以上的五代处理器。这是最低的型号，再低的话
+    可以安装是可以安装，但是不保证能流畅运行。
+    2、下载Vmware（一款支持物理机虚拟化安装操作系统的软件）
+    https://my.vmware.com/en/web/vmware/info/slug/desktop_end_user_computing/vmware_workstation_pro/14_0
+    
