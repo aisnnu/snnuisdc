@@ -1,13 +1,6 @@
-目录
 # 公共技能
-## 安装和使用KaliLinux
-## 熟悉Nmap的基本操作
-## 熟悉Metasploit
-## 密码学基础知识
-## Owasp TOP10漏洞原理和修补方法
-## Burpsuit的使用
-# 公共技能
-  这是一个大家都需要共同学习和掌握的基本技能
+  说明：这是一个大家都需要共同学习和掌握的基本技能，首先，我们应该熟悉一下中国在法律层面对网络安全领域的一些规定
+  http://www.npc.gov.cn/npc/xinwen/2016-11/07/content_2001605.htm
   
 ##   安装和使用KaliLinux
    Linux的安装有两种方式，一种是物理机直接安装，一种是虚拟机里安装。建议新手使用虚拟机
@@ -23,9 +16,13 @@
     虚拟化，所以你要是购买电脑的话，CPU最低型号也应该是Intel i5以上的五代处理器。这是最低的型号，再低的话
     可以安装是可以安装，但是不保证能流畅运行。
     2、下载Vmware（一款支持物理机虚拟化安装操作系统的软件）
-       下载链接：https://pan.baidu.com/s/1Lnu5n445_LQ_qm3Zy_L77g
+    
+        https://pan.baidu.com/s/1Lnu5n445_LQ_qm3Zy_L77g
+       
     3、下载KaliLinux
-        http://cdimage.kali.org/kali-2018.2/kali-linux-2018.2-amd64.iso    
+    
+        http://cdimage.kali.org/kali-2018.2/kali-linux-2018.2-amd64.iso  
+        
     4、安装Kali
        这个操作自行百度获取操作方法。
 ### 安装完KaliLinux后需要做的几件事
@@ -116,7 +113,21 @@ Metasploit是一款开源的安全漏洞检测工具，可以帮助安全和IT�
    https://zhuanlan.zhihu.com/cryptography
 ## Owasp Top10漏洞原理和修补方法
   http://www.owasp.org.cn/owasp-project/download/2010_OWASP_Top_10
+  
   http://www.owasp.org.cn/owasp-project/download/mobile-top-10-2013-2
+  
   http://www.owasp.org.cn/owasp-project/OWASPTop102017v1.1.pdf
 ## burpsuit的使用
   https://legacy.gitbook.com/book/t0data/burpsuite/details
+  
+## CTF相关
+### 入门----从基础题目出发（推荐资源）：
+  www.ichunqiu.com 有线下决赛题目复现
+  
+  http://oj.xctf.org.cn/xctf 题库网站
+  
+  www.wechall.net/challs 入门ctf题库
+  
+  http://prompt.ml/0 国外的xss测试
+  
+  http://redtiger.labs.overthewire.org/ sql注入挑战网站
