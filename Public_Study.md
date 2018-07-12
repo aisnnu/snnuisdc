@@ -23,5 +23,34 @@
     3、下载KaliLinux
         http://cdimage.kali.org/kali-2018.2/kali-linux-2018.2-amd64.iso    
     4、安装Kali
+       这个操作自行百度获取操作方法。
+### 安装完KaliLinux后需要做的几件事
+#### 将Kali Linux的源换到国内
+     鼠标单击右键打开终端，输入
+    sudo vim /etc/apt/sources.list
+    这个时候你就进入了sources.list这个文件的源码界面，相当于你打开了一个Word文档
+    这个时候你还不能进入编辑界面，这是由于你没有打开编辑模式的缘故。此时按一下i，你就
+    会进入编辑模式。复制以下两行内容到sources.list
+    deb http://mirrors.aliyun.com/kali kali-rolling main non-free contrib
+    deb-src http://mirrors.aliyun.com/kali kali-rolling main non-free contrib
+    完成以上操作后你需要退出编辑模式，此时按一下“ESC”键，这个键通常在你键盘的左上角。
+    退出编辑模式后，按一下： 并输入wq，回车。这个操作的作用是：保存并退出sources.list
     
+#### Install VMware Tools
+    依次点击虚拟机->安装vmware-tools，找到压缩包，并拷贝到home文件夹下，文件名后缀是
+    tar.gz
+    Copy VNware Tools Desk
+    tar -zxvf Filename
+    cd vmware-tools-distrib
+    ./vmware-install.pl
+    Update KaliLinux
+    sudo apt-get update
+    sudo apt-get upgrade
+    sudo apt-get install linux-source
+#### Install SouGouPinYin
+    sudo apt-get install fcitx
+    sudo apt-get install fcitx-libs-qt
+    下载搜狗拼音 For Linux
+    dpkg -i File.deb
+    sudo apt-get --fix-broken install
     
