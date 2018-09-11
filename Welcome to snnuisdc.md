@@ -1,4 +1,4 @@
-# welcome to snnuisdc
+# Welcome to SNNUISDC
 2018级陕西师范大学计科院的新生们你们好哇，我是snnuisdc，中文名陕西师范大学信息安全协会。
 下面来和我一起回顾一下信息安全这个词汇吧！
 # 不可不说的信息安全事件
