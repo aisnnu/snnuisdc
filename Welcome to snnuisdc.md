@@ -25,6 +25,7 @@
 网络安全问题越来越受到全世界的关注
 
 越来越多白帽子正在网络世界里与黑灰产作斗争
+<img src="https://octodex.github.com/images/linktocat.jpg">
 
 # 陕西师范大学信息安全协会简介
 陕西师范大学信息安全协会，简称snnuisdc，是由陕西师范大学计科院主管的，由陕西师范对网络安全
