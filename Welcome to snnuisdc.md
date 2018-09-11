@@ -1,5 +1,5 @@
 # Welcome to SNNUISDC
-https://pic1.zhimg.com/80/v2-0d0f376eb2f94a2c78d7128cd8ec2714_hd.jpg
+<img src="https://pic1.zhimg.com/80/v2-0d0f376eb2f94a2c78d7128cd8ec2714_hd.jpg">
 2018级陕西师范大学计科院的新生们你们好哇，欢迎来到陕西师范大学信息安全协会。
 下面来和我一起回顾一下信息安全这个词汇吧！
 # 不可不说的信息安全事件
