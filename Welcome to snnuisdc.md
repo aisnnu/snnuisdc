@@ -50,7 +50,6 @@
 来减少服务器被入侵、数据泄露等风险。
 
 ### 所需要具备的知识<入门>
-http://www.w3school.com.cn/ html、css、JavaScript、PHP部分
 
 <a href="https://mp.weixin.qq.com/s/7Epgi8xv7bLSz6pIt6cyhQ">Ubuntu16.04如何搭建LAMP</a>
 
