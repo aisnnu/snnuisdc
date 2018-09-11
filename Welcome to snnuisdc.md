@@ -94,6 +94,10 @@ MISC，中文即杂项，包括隐写，数据还原，脑洞、社会工程、�
 
 <a href="https://www.yuque.com/aisnnu/snnuctf/vztg9c">好好好，客官别走啊。我这就告诉你如何成为白帽子</a>
 
+# 那，怎么加入你们呢
+
+<a href="http://qm.qq.com/cgi-bin/qm/qr?k=oJ72eRgwYJ1MWbEQ9dGP5yUS6Y40ko0g">吾即传送门，以汝指为引，欢迎加入snnuisdc</a>
+
 
 
 
