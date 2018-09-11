@@ -37,7 +37,13 @@
 越来越多白帽子正在网络世界里与黑灰产作斗争
 
 现在我们邀请您，成为我们的一份子
-# 
+# 我们的研究方向
+## Web安全
+主要研究网站和服务器的安全，主要是以渗透测试和代码审计等方式，通过找到漏洞、验证漏洞、最后修复漏洞，
+来减少服务器被入侵、数据泄露等风险。
+### 所需要具备的知识
+http://www.w3school.com.cn/ html、css、JavaScript、PHP部分
+网站运行环境的搭建：<a href="https://mp.weixin.qq.com/s/7Epgi8xv7bLSz6pIt6cyhQ">Ubuntu16.04如何搭建LAMP</a>
 
 
 
