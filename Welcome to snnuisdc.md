@@ -2,6 +2,7 @@
 <img src="https://pic1.zhimg.com/80/v2-0d0f376eb2f94a2c78d7128cd8ec2714_hd.jpg">
 2018级陕西师范大学计科院的新生们你们好哇，欢迎来到陕西师范大学信息安全协会。
 下面来和我一起回顾一下信息安全这个词汇吧！
+
 # 不可不说的信息安全事件
 
 1、2010年，"震网"病毒，全球第一列被发现针对工控系统的网络病毒
@@ -43,6 +44,7 @@
 ## Web安全
 主要研究网站和服务器的安全，主要是以渗透测试和代码审计等方式，通过找到漏洞、验证漏洞、最后修复漏洞，
 来减少服务器被入侵、数据泄露等风险。
+
 ### 所需要具备的知识<入门>
 http://www.w3school.com.cn/ html、css、JavaScript、PHP部分
 
@@ -61,6 +63,7 @@ http://www.w3school.com.cn/ html、css、JavaScript、PHP部分
 密码在早期仅对文字或数码进行加、脱密变换，随着通信技术的发展，对语音、图像、数据等都可实施加、脱密变换。
 
 ### 所需要具备的知识<入门>
+
 <a href="https://mp.weixin.qq.com/s/PAtaQvfey0fPDs770Z0GCA">一万字带您走进密码学的世界</a>
 
 <a href="https://mp.weixin.qq.com/s/1lOvKBjL2qlRlLHP4rHONg">工程师男友如何反窃听，趣聊密码学入门科普</a>
